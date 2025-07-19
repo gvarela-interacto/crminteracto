@@ -1,0 +1,371 @@
+{
+    "base_path": "librerias",
+    "scan_date": "2025-07-09 05:42:03",
+    "total_folders": 52,
+    "folders": [
+        {
+            "name": "ace-builds",
+            "path": "librerias\/ace-builds",
+            "size": 8786728,
+            "files_count": 416,
+            "last_modified": "2025-05-19 15:53:00"
+        },
+        {
+            "name": "bootstrap-datepicker",
+            "path": "librerias\/bootstrap-datepicker",
+            "size": 49424,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:52:52"
+        },
+        {
+            "name": "bootstrap-maxlength",
+            "path": "librerias\/bootstrap-maxlength",
+            "size": 4976,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:55:35"
+        },
+        {
+            "name": "chart.js",
+            "path": "librerias\/chart.js",
+            "size": 173077,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:55:36"
+        },
+        {
+            "name": "clipboard",
+            "path": "librerias\/clipboard",
+            "size": 10453,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:52:50"
+        },
+        {
+            "name": "codemirror",
+            "path": "librerias\/codemirror",
+            "size": 477009,
+            "files_count": 5,
+            "last_modified": "2025-05-19 15:55:32"
+        },
+        {
+            "name": "colcade",
+            "path": "librerias\/colcade",
+            "size": 9513,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:52:54"
+        },
+        {
+            "name": "css",
+            "path": "librerias\/css",
+            "size": 2598,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:45:46"
+        },
+        {
+            "name": "dropify",
+            "path": "librerias\/dropify",
+            "size": 20375,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:51:01"
+        },
+        {
+            "name": "dropzone",
+            "path": "librerias\/dropzone",
+            "size": 134607,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:52:54"
+        },
+        {
+            "name": "feather",
+            "path": "librerias\/feather",
+            "size": 136213,
+            "files_count": 5,
+            "last_modified": "2025-05-19 15:55:34"
+        },
+        {
+            "name": "flag-icon-css",
+            "path": "librerias\/flag-icon-css",
+            "size": 4817932,
+            "files_count": 517,
+            "last_modified": "2025-05-19 15:48:16"
+        },
+        {
+            "name": "font-awesome",
+            "path": "librerias\/font-awesome",
+            "size": 1116661,
+            "files_count": 7,
+            "last_modified": "2025-05-19 15:55:22"
+        },
+        {
+            "name": "inputmask",
+            "path": "librerias\/inputmask",
+            "size": 220965,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:51:16"
+        },
+        {
+            "name": "ion-rangeslider",
+            "path": "librerias\/ion-rangeslider",
+            "size": 54467,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:55:39"
+        },
+        {
+            "name": "jquery-asColor",
+            "path": "librerias\/jquery-asColor",
+            "size": 48725,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:55:37"
+        },
+        {
+            "name": "jquery-asColorPicker",
+            "path": "librerias\/jquery-asColorPicker",
+            "size": 162138,
+            "files_count": 8,
+            "last_modified": "2025-05-19 15:45:48"
+        },
+        {
+            "name": "jquery-asGradient",
+            "path": "librerias\/jquery-asGradient",
+            "size": 36905,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:52:51"
+        },
+        {
+            "name": "jquery-bar-rating",
+            "path": "librerias\/jquery-bar-rating",
+            "size": 48787,
+            "files_count": 13,
+            "last_modified": "2025-05-19 15:52:58"
+        },
+        {
+            "name": "jquery-contextmenu",
+            "path": "librerias\/jquery-contextmenu",
+            "size": 146254,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:45:45"
+        },
+        {
+            "name": "jquery-file-upload",
+            "path": "librerias\/jquery-file-upload",
+            "size": 18174,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:55:30"
+        },
+        {
+            "name": "jquery-sparkline",
+            "path": "librerias\/jquery-sparkline",
+            "size": 62673,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:52:41"
+        },
+        {
+            "name": "jquery-tags-input",
+            "path": "librerias\/jquery-tags-input",
+            "size": 7344,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:55:38"
+        },
+        {
+            "name": "jquery-toast-plugin",
+            "path": "librerias\/jquery-toast-plugin",
+            "size": 10843,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:51:14"
+        },
+        {
+            "name": "jquery-validation",
+            "path": "librerias\/jquery-validation",
+            "size": 24430,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:47:15"
+        },
+        {
+            "name": "jquery.avgrund",
+            "path": "librerias\/jquery.avgrund",
+            "size": 2001,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:52:39"
+        },
+        {
+            "name": "jquery.repeater",
+            "path": "librerias\/jquery.repeater",
+            "size": 10550,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:47:13"
+        },
+        {
+            "name": "js",
+            "path": "librerias\/js",
+            "size": 409648,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:53:00"
+        },
+        {
+            "name": "justgage",
+            "path": "librerias\/justgage",
+            "size": 92764,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:47:15"
+        },
+        {
+            "name": "jwysiwyg-master",
+            "path": "librerias\/jwysiwyg-master",
+            "size": 1599011,
+            "files_count": 230,
+            "last_modified": "2025-05-19 15:52:38"
+        },
+        {
+            "name": "lightgallery",
+            "path": "librerias\/lightgallery",
+            "size": 438331,
+            "files_count": 18,
+            "last_modified": "2025-05-19 15:52:50"
+        },
+        {
+            "name": "mdi",
+            "path": "librerias\/mdi",
+            "size": 2286929,
+            "files_count": 6,
+            "last_modified": "2025-05-19 15:51:03"
+        },
+        {
+            "name": "moment",
+            "path": "librerias\/moment",
+            "size": 232764,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:45:51"
+        },
+        {
+            "name": "morris.js",
+            "path": "librerias\/morris.js",
+            "size": 35652,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:45:45"
+        },
+        {
+            "name": "nouislider",
+            "path": "librerias\/nouislider",
+            "size": 27380,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:55:21"
+        },
+        {
+            "name": "progressbar.js",
+            "path": "librerias\/progressbar.js",
+            "size": 21693,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:52:53"
+        },
+        {
+            "name": "pwstabs",
+            "path": "librerias\/pwstabs",
+            "size": 23412,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:52:40"
+        },
+        {
+            "name": "quill",
+            "path": "librerias\/quill",
+            "size": 1247361,
+            "files_count": 3,
+            "last_modified": "2025-05-19 15:48:15"
+        },
+        {
+            "name": "raphael",
+            "path": "librerias\/raphael",
+            "size": 93167,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:55:29"
+        },
+        {
+            "name": "select2",
+            "path": "librerias\/select2",
+            "size": 85817,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:52:42"
+        },
+        {
+            "name": "select2-bootstrap-theme",
+            "path": "librerias\/select2-bootstrap-theme",
+            "size": 16792,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:48:15"
+        },
+        {
+            "name": "simple-line-icons",
+            "path": "librerias\/simple-line-icons",
+            "size": 471721,
+            "files_count": 6,
+            "last_modified": "2025-05-19 15:51:11"
+        },
+        {
+            "name": "simplemde",
+            "path": "librerias\/simplemde",
+            "size": 280237,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:45:52"
+        },
+        {
+            "name": "summernote",
+            "path": "librerias\/summernote",
+            "size": 6716011,
+            "files_count": 162,
+            "last_modified": "2025-05-19 15:47:16"
+        },
+        {
+            "name": "sweetalert",
+            "path": "librerias\/sweetalert",
+            "size": 40808,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:52:39"
+        },
+        {
+            "name": "tempusdominus-bootstrap-4",
+            "path": "librerias\/tempusdominus-bootstrap-4",
+            "size": 121733,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:47:14"
+        },
+        {
+            "name": "ti-icons",
+            "path": "librerias\/ti-icons",
+            "size": 465554,
+            "files_count": 5,
+            "last_modified": "2025-05-19 15:55:26"
+        },
+        {
+            "name": "tinymce",
+            "path": "librerias\/tinymce",
+            "size": 7643582,
+            "files_count": 190,
+            "last_modified": "2025-05-19 15:47:13"
+        },
+        {
+            "name": "twbs-pagination",
+            "path": "librerias\/twbs-pagination",
+            "size": 6215,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:55:36"
+        },
+        {
+            "name": "typeahead.js",
+            "path": "librerias\/typeahead.js",
+            "size": 39749,
+            "files_count": 1,
+            "last_modified": "2025-05-19 15:51:14"
+        },
+        {
+            "name": "typicons",
+            "path": "librerias\/typicons",
+            "size": 638025,
+            "files_count": 9,
+            "last_modified": "2025-05-19 15:51:10"
+        },
+        {
+            "name": "x-editable",
+            "path": "librerias\/x-editable",
+            "size": 97111,
+            "files_count": 2,
+            "last_modified": "2025-05-19 15:51:16"
+        }
+    ]
+}
